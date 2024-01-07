@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/sandrvvu/kpi-nodejs23-lab2.git"
+    "url": "git+ssh://git@github.com/booravch1que/nodeJS23_2.git"
   },
   "author": "sandrvvu",
   "license": "ISC",
